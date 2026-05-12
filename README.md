@@ -1,33 +1,64 @@
 <h1 align="center">Taskovics Máté</h1>
 
+<p align="center">
+  Backend Development • Automation • AI • Intelligent Business Systems
+</p>
+
+---
 
 ## About Me
 
-Computer Engineering student at Budapest University of Technology and Economics (BME).
-Focused on backend development, automation, and building practical software systems.
+Computer Engineering student at the Budapest University of Technology and Economics (BME).
 
-I am particularly interested in solving real-world problems through data processing and system design.
+I focus on backend development, workflow automation, and building software systems that solve practical business problems.
+
+Currently developing an accounting automation platform in C#/.NET designed to reduce manual financial administration through data processing and intelligent classification.
+
+My main interests include:
+- Backend architecture
+- Data processing systems
+- Software automation
+- Machine learning integration
+- Scalable application design
+
+---
 
 ## Tech Stack
 
-* C#, .NET (WPF, ASP.NET Core)
-* Python
-* SQL
-* Git
-* java
-* c++
+### Languages
+`C#` `Python` `Java` `C++` `SQL`
 
-## Current Focus
+### Frameworks & Technologies
+`.NET` `ASP.NET Core` `WPF` `ML.NET`
 
-* Building a real-world accounting automation system
-* Exploring machine learning for intelligent data classification (ML.NET)
-* Improving system design and backend architecture skills
+### Tools
+`Git` `GitHub` 
 
-## What I Aim To Do
+---
 
-Develop software that automates complex workflows and reduces manual work in business environments.
+## Current Projects
+
+### Accounting Automation System
+Developing a software solution for accounting workflow automation:
+- invoice data processing
+- ERP-compatible data conversion
+- intelligent classification pipelines
+- desktop application development with .NET
+
+---
+
+## Current Learning Focus
+
+- Clean Architecture & SOLID Principles
+- Distributed & Backend System Design
+- Cloud Infrastructure (AWS, Azure)
+- Database Performance Optimization
+- Scalable Application Architecture
+- ML-assisted Data Processing Systems
+
+---
 
 ## Contact
 
-* LinkedIn: www.linkedin.com/in/máté-taskovics-ba1483408
-* Email: taskovics.mate@gmail.com
+- LinkedIn: www.linkedin.com/in/taskovicsmate
+- Email: taskovics.mate@gmail.com
